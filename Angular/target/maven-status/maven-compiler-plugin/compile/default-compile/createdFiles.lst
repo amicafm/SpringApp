@@ -1,0 +1,6 @@
+com\example\SpringApp\usecases\PessoaController.class
+com\example\SpringApp\usecases\PessoaServiceImpl.class
+com\example\SpringApp\entities\Pessoa.class
+com\example\SpringApp\viewmodels\PessoaService.class
+com\example\SpringApp\viewmodels\PessoaRepository.class
+com\example\SpringApp\SpringApp.class
